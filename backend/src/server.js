@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const server = express();
 
 mongoose.connect('mongodb+srv://redfox:redfox@cluster-kjvqg.mongodb.net/omnistack?retryWrites=true&w=majority', {
-    useNewUrlParser: true
+  useNewUrlParser: true
 });
 
 server.use(express.json());
