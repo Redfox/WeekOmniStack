@@ -1,1 +1,1 @@
-# WeekOmniStack
+# WeekOmniStack 8.0
